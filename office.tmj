@@ -1807,17 +1807,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":24,
          "firstgid":2956,
-         "image":"..\/..\/..\/Desktop\/WA maps\/BAWES-virtual-master\/tilesets\/pandamaru_mv_nature1_by_schwarzenacht_d9k7n23.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"pandamaru_mv_nature1_by_schwarzenacht_d9k7n23",
-         "spacing":0,
-         "tilecount":576,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets\/pandamaru_mv_nature1_by_schwarzenacht_d9k7n23.tsx"
         }],
  "tilewidth":32,
  "type":"map",
