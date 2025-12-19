@@ -1805,10 +1805,6 @@
          "tilecount":273,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":2956,
-         "source":"tilesets\/texture.tsx"
         }],
  "tilewidth":32,
  "type":"map",
