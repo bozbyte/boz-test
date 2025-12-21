@@ -2153,8 +2153,54 @@
          "tilewidth":32
         }, 
         {
+         "columns":25,
          "firstgid":3532,
-         "source":"tilesets\/WA_Exterior.tsx"
+         "image":"tilesets\/WA_Exterior.png",
+         "imageheight":1088,
+         "imagewidth":800,
+         "margin":0,
+         "name":"WA_Exterior",
+         "spacing":0,
+         "tilecount":850,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":533
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":534
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":558
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":559
+                        }],
+                 "id":533
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":1000,
+                         "tileid":675
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":676
+                        }, 
+                        {
+                         "duration":1000,
+                         "tileid":678
+                        }],
+                 "id":675
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
