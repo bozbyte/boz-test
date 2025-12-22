@@ -40,9 +40,7 @@
  <tile id="533">
   <animation>
    <frame tileid="533" duration="1000"/>
-   <frame tileid="534" duration="1000"/>
    <frame tileid="558" duration="1000"/>
-   <frame tileid="559" duration="1000"/>
   </animation>
  </tile>
  <tile id="675">
