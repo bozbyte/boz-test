@@ -2636,6 +2636,33 @@
                  "width":829.999966666667,
                  "x":3232.33335,
                  "y":2843.33333333333
+                }, 
+                {
+                 "height":127,
+                 "id":33,
+                 "name":"song4",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.3
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"abcdef.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":446.3333,
+                 "x":1791.33335,
+                 "y":2752
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2932,7 +2959,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":33,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
