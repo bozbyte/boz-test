@@ -2613,7 +2613,7 @@
                 {
                  "height":381.333333333333,
                  "id":28,
-                 "name":"",
+                 "name":"song",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -2628,10 +2628,10 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/abc.mp3"
+                         "value":"abc.mp3"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":126,
                  "x":2752,
