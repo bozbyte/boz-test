@@ -2611,7 +2611,7 @@
                  "y":1226.1515
                 }, 
                 {
-                 "height":1910,
+                 "height":381.333333333333,
                  "id":28,
                  "name":"",
                  "properties":[
@@ -2633,9 +2633,9 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":1862,
-                 "x":1090,
-                 "y":1048
+                 "width":126,
+                 "x":2752,
+                 "y":1793.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
