@@ -2401,49 +2401,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":93.7162209047986,
-                 "x":483.919325398621,
-                 "y":14.0269116471316
-                }, 
-                {
-                 "height":128,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":192,
-                 "x":32,
-                 "y":96
-                }, 
-                {
                  "height":128,
                  "id":14,
                  "name":"silentZone",
@@ -2491,17 +2448,6 @@
                  "width":192,
                  "x":768,
                  "y":224
-                }, 
-                {
-                 "height":39.6969696969697,
-                 "id":17,
-                 "name":"clock",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":50.2727272727272,
-                 "x":438.484848484849,
-                 "y":96.3333333333333
                 }, 
                 {
                  "height":64,
@@ -2594,7 +2540,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/abc.mp3"
+                         "value":"abc.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2621,7 +2567,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"public\/abcd.mp3"
+                         "value":"abcd.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2629,6 +2575,23 @@
                  "width":63.3333,
                  "x":1697.66668333333,
                  "y":1919.33333333333
+                }, 
+                {
+                 "height":283.276044581339,
+                 "id":30,
+                 "name":"to-conference",
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"office.tmj"
+                        }],
+                 "rotation":0.676690340279326,
+                 "type":"area",
+                 "visible":true,
+                 "width":94.594059404727,
+                 "x":1153.71237561522,
+                 "y":1825.1466019061
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2925,7 +2888,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":30,
+ "nextobjectid":31,
  "orientation":"orthogonal",
  "properties":[
         {
