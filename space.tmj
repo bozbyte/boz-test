@@ -2628,7 +2628,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"abc.mp3"
+                         "value":"public\/abc.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
