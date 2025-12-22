@@ -2538,40 +2538,6 @@
                  "y":544
                 }, 
                 {
-                 "height":65.3333333333333,
-                 "id":20,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":31.3333333333335,
-                 "x":2303.33333333333,
-                 "y":1951.33333333333
-                }, 
-                {
-                 "height":65.3333,
-                 "id":21,
-                 "name":"silentZone",
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":31.3333,
-                 "x":1728.66668333333,
-                 "y":1951.66668333333
-                }, 
-                {
                  "height":65.3333,
                  "id":22,
                  "name":"silentZone",
@@ -2611,7 +2577,7 @@
                  "y":1226.1515
                 }, 
                 {
-                 "height":381.333333333333,
+                 "height":132,
                  "id":28,
                  "name":"song",
                  "properties":[
@@ -2633,9 +2599,36 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":126,
-                 "x":2752,
-                 "y":1793.33333333333
+                 "width":63.3333333333335,
+                 "x":2304.66666666667,
+                 "y":1917.33333333333
+                }, 
+                {
+                 "height":132,
+                 "id":29,
+                 "name":"song2",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.3
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"public\/abcd.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":63.3333,
+                 "x":1697.66668333333,
+                 "y":1919.33333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2932,7 +2925,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":29,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {
