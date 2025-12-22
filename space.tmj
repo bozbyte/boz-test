@@ -2609,6 +2609,33 @@
                  "width":50.2727,
                  "x":1600.86365,
                  "y":1226.1515
+                }, 
+                {
+                 "height":1910,
+                 "id":28,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.3
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"public\/abc.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":1862,
+                 "x":1090,
+                 "y":1048
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2904,8 +2931,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":77,
- "nextobjectid":25,
+ "nextlayerid":78,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
